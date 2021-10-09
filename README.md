@@ -1,4 +1,4 @@
-![Viva Cristo Rey!](<blockquote class="imgur-embed-pub" lang="en" data-id="a/BIi5FTt" data-context="false" ><a href="//imgur.com/a/BIi5FTt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Viva Cristo Rey!](https://i.imgur.com/qW6chYg.png)
 
 # A small biography:
 Hello, my name is Adnan Medeiros Bezerra! I am a 19 years old Computer Science student at Federal University of Campina
