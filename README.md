@@ -16,8 +16,9 @@ to work as a Web Developer. I also want to stablish a family, become a father an
 voices with mine by proclaiming the sacred words: Viva Cristo Rey!
 
 ## Where can you find me?
-My main e-mail is adnanbezerra@gmail.com, but you can also find me at [Medium](https://adnanbezerra.medium.com/), [Instagram](https://www.instagram.com/adnanbezerra/),
-[Facebook](https://www.facebook.com/adnan.medeiros/), [LinkedIn](https://www.linkedin.com/in/adnan-bezerra-374134220/) and even at [Skoob](https://www.skoob.com.br/usuario/8083065).
+My main e-mail is adnanbezerra@gmail.com, but you can also find me at [LinkedIn](https://www.linkedin.com/in/adnan-bezerra-374134220/), 
+[Medium](https://adnanbezerra.medium.com/), [Instagram](https://www.instagram.com/adnanbezerra/), [Facebook](https://www.facebook.com/adnan.medeiros/), 
+and even at [Skoob](https://www.skoob.com.br/usuario/8083065).
 
 #
 
