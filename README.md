@@ -1,4 +1,6 @@
-![Viva Cristo Rey!](https://i.imgur.com/qW6chYg.png)
+<div align="center">
+    <img src="https://i.imgur.com/qW6chYg.png">
+</div>!
 
 # :smile: A small biography 
 Hello, my name is Adnan Medeiros Bezerra! I am a 19 years old Computer Science student at Federal University of Campina
