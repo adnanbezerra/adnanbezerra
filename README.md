@@ -13,11 +13,6 @@ and soon I will start to study Web Development seriously. Currently, I can speak
 of Italian and Latin, looking forward to widening the list. At this moment, I'm working as a text writer at Livraria Caritatem,
 creating content related to Catholicism. I'm also working on a CNPq project at NITT@UFCG.
 
-# :flushed: What are my life goals? 
-As every single devout Catholic should do, my main goal is to become a saint through my vocation. Because of that, I want 
-to work as a Web Developer. I also want to stablish a family, become a father and to ensure that my children will join their
-voices with mine by proclaiming the sacred words: Viva Cristo Rey!
-
 # :monocle_face: Where can you find me? 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-bezerra-374134220/)
 [<img src="https://img.shields.io/github/followers/adnanbezerra?label=follow&style=social" height="22" title="Follow me" />](https://github.com/adnanbezerra) 
