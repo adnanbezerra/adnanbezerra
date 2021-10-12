@@ -3,9 +3,9 @@
 </div>
 
 # :smile: A small biography 
-Hello, my name is Adnan Medeiros Bezerra! I am a 19 years old Computer Science student at Federal University of Campina
-Grande who's currently living in Paraíba, Brazil. I am a devout Catholic, I enjoy musics, playing chess, studying 
-philosphy, history, mathematics and theology (besides informatics, of course), and I also love to make new friends. 
+Hello, my name is **Adnan Medeiros Bezerra**! I am a 19 years old Computer Science student at Federal University of Campina
+Grande who's currently living in Paraíba, Brazil. I am a devout Catholic. I enjoy music, playing chess, studying 
+Philosophy, History, Mathematics and Theology (besides informatics, of course), and I also love to make new friends. 
 
 # :thinking: What have I done in my life? 
 I have been programming in Java for about seven months already. I also do have some experience with JavaScript, MySQL and Python,
