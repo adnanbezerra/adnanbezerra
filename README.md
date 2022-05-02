@@ -8,10 +8,11 @@ Grande who's currently living in Paraíba, Brazil. I am a devout Catholic. I enj
 Philosophy, History, Mathematics and Theology (besides informatics, of course), and I also love to make new friends. 
 
 # :thinking: What have I done in my life? 
-I have been programming in *Java* for quite the long time already. I also do have some experience with *JavaScript*, *MySQL* and *Python*. 
-Currently, I can speak Portuguese, English, Spanish and a little bit of Italian and Latin, looking forward to widening the list. At this 
-moment, I'm working as a text writer at *Livraria Caritatem*, creating content related to Catholicism. I'm also working on a *PIBIC*
-project at *NITT@UFCG*.
+I'm currently learning fullstack web development at Driven Education and, as of this moment, I'm very familiarized with front-end development.
+I have been programming in *Java* for quite the long time already, and I'm also *MySQL* and *Python*. 
+Currently, I can speak Portuguese, English and a little bit of Spanish. 
+
+I have worked as a copywriter at *Livraria Caritatem*, creating content related to Catholicism. I'm also working on a *PIBIC* project at *NITT@UFCG*.
 
 - 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
