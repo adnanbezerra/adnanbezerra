@@ -21,8 +21,6 @@ I have worked as a copywriter at *Livraria Caritatem*, creating content related 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<code><img height="160Em" src="https://github-readme-stats.vercel.app/api/wakatime?username=adnanbezerra&layout=compact&langs_count=16&theme=dracula"/></code>
-
 # :monocle_face: Where can you find me? 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-bezerra-374134220/)
 [<img src="https://img.shields.io/github/followers/adnanbezerra?label=follow&style=social" height="22" title="Follow me" />](https://github.com/adnanbezerra) 
